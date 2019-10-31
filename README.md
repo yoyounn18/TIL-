@@ -19,6 +19,14 @@
 
 [TIL-2019.10.12.React의 가동 원리](https://blex.kr/@yoyounn18/react-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC-react%EB%8A%94-%EC%99%9C-%EB%B9%A0%EB%A5%B4%EB%A9%B0-%EA%B0%81%EA%B4%91%EB%B0%9B%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%B8%EA%B0%80)
 
+[TIL-2019.10.15.Javascript 공부](https://blex.kr/@yoyounn18/1015-javascript-%EC%A0%95%EB%A6%AC)
+
+[TIL-2019.10.18.Javascript 공부](https://blex.kr/@yoyounn18/1018javascript-%EC%A0%95%EB%A6%AC)
+
+[TIL-2019.10.18.디자인패턴 공부](https://blex.kr/@yoyounn18/1018javascript-design-pattern%EB%AA%A8%EB%93%88-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%83%9D%EC%84%B1%EC%9E%90)
+
+[TIL-2019.10.29.Javascript es6공부](https://blex.kr/@yoyounn18/javascript-keycode-%EC%A0%95%EB%A6%AC)
+
 [TIL-2019.10.31.하노이의 탑 알고리즘](https://blex.kr/@yoyounn18/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98-%ED%83%91-javascript%EB%A1%9C-%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0)
 
 ## TIL(10.31 ~)
