@@ -30,3 +30,5 @@
 [TIL-2019.10.31.하노이의 탑 알고리즘](https://blex.kr/@yoyounn18/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98-%ED%83%91-javascript%EB%A1%9C-%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0)
 
 ## TIL(10.31 ~)
+
+[TIL-2019.11.1.javascript 공부](https://blex.kr/@yoyounn18/111javascript-%EA%B3%B5%EB%B6%80)
