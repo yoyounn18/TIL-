@@ -34,3 +34,7 @@
 [TIL-2019.11.1.javascript 공부](https://blex.kr/@yoyounn18/111javascript-%EA%B3%B5%EB%B6%80)
 
 [TIL-2019.11.5.React.js 공부](https://blex.kr/@yoyounn18/115-react-공부)
+
+[TIL-2019.11.6.React.js 공부](https://blex.kr/@yoyounn18/116-react-%EA%B3%B5%EB%B6%80)
+
++ __React 실습 간단히 해볼 예정__
