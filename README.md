@@ -36,6 +36,8 @@
 
 [TIL-2019.11.6.React.js 공부](https://blex.kr/@yoyounn18/116-react-%EA%B3%B5%EB%B6%80)
 
+[javasciprt map 개념 및 응용 정리](https://blex.kr/@yoyounn18/javascript-map-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
+
 +__React 실습 간단히 해볼 예정__
 
 [TIL-2019.11.21 hover btn](https://blex.kr/@yoyounn18/reactjs-hover-%EB%B2%84%ED%8A%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
